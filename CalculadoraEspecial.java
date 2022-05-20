@@ -57,7 +57,7 @@ public class CalculadoraEspecial  {
             System.out.println("");
             for(String transaccion : vectorTransacciones){
                 if(transaccion != null){
-                    System.out.println(transaccion);
+                   
                 }   
             } 
         }catch(Exception e){
